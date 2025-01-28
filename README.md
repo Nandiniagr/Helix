@@ -61,9 +61,8 @@ Objective :
 
 <ul>
   <li> Full-featured social experience – Login, Signup, Create Tweet, Follow Users & more (10+ features).</li>
-<li>✅ Blazing-fast performance – API response times <50ms.</li>
+
 <li>✅ Robust backend architecture – Built with Spring MVC & PostgreSQL for scalability.</li>
-<li>✅ High-quality code – 100% test coverage with rigorous REST API testing. </li>
 </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
