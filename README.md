@@ -39,10 +39,10 @@ Objective :
 <li>Tweets</li>
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-<img src="images/cloudnote-photos/1 (13).jpeg" alt="Logo" width="800" height="500">
-<img src="images/cloudnote-photos/1 (6).jpeg" alt="Logo" width="800" height="500">
-<img src="images/cloudnote-photos/1 (3).jpeg" alt="Logo" width="500" height="500">
-<img src="images/cloudnote-photos/1 (8).jpeg" alt="Logo" width="800" height="500">
+<img src="src/login.jpg" alt="Logo" width="800" height="500">
+<img src="src/login_cred.jpg" alt="Logo" width="800" height="500">
+<img src="src/Screenshot 2025-01-28 115304.png" alt="Logo" width="500" height="500">
+<img src="src/404 error.jpeg" alt="Logo" width="800" height="500">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
