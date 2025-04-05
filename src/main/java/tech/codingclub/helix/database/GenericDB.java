@@ -8,9 +8,6 @@ import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by rishabh
- */
 public class GenericDB<T> {
 
     public static DatabaseConnectionPool databaseConnectionPool;
