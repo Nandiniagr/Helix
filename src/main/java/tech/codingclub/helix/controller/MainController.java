@@ -18,9 +18,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 import java.util.HashMap;
 
-/**
- * User: rishabh
- */
 @Controller
 @RequestMapping("/")
 public class MainController extends BaseController {
