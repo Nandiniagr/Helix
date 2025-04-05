@@ -6,9 +6,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by rishabh.
- */
 public class BaseController {
     @ExceptionHandler
     public
