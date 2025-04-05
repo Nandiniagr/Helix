@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * User: rishabh
- */
 @Controller
 @RequestMapping("/login")
 public class LoginController extends BaseController {
