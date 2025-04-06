@@ -49,7 +49,7 @@ Objective :
 ### Tech Stack
 
 * Java
-* MySQL
+* PostgreSQL
 * HTML/CSS
 * Javascript
 * Spring MVC
